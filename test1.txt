@@ -1,0 +1,7 @@
+light plum bags contain 1 shiny gold bag.
+muted salmon bags contain 4 faded lavender bags, 4 posh magenta bags.
+post magenta bags contain 2 shiny gold bags.
+faded lavender bags contain 1 shiny gold bags.
+yellowish blue bags contain 1 muted salmon bag, 1 cyan yellow bag.
+cyan yellow bags contain shiny gold bag.
+shiny gold bag contain no other bags.
